@@ -1,5 +1,5 @@
-# Title
-> summary
+# Flower Image Classifier
+> Model differentiates between 102 different flower catagories
 
 
 <a href="https://colab.research.google.com/github/kirankamatmgm/FlowerImageClassifier/blob/master/FlowerspeciesClassifier.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
