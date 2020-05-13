@@ -13,6 +13,7 @@ I got accuracy of 97.84%
 
 For detailed explaination of code step by step visit my Blog [here](https://kirankamath.netlify.app/blog/flower-image-classifier/)
 
+https://nbviewer.jupyter.org/github/kirankamatmgm/FlowerImageClassifier/tree/master/
 
 https://mybinder.org/v2/gh/kirankamatmgm/FlowerImageClassifier/master?urlpath=https%3A%2F%2Fgithub.com%2Fkirankamatmgm%2FFlowerImageClassifier%2Fblob%2Fmaster%2FFlowerspeciesClassifier.ipynb
 
