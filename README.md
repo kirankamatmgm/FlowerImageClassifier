@@ -17,3 +17,5 @@ https://nbviewer.jupyter.org/github/kirankamatmgm/FlowerImageClassifier/tree/mas
 
 https://mybinder.org/v2/gh/kirankamatmgm/FlowerImageClassifier/master?urlpath=https%3A%2F%2Fgithub.com%2Fkirankamatmgm%2FFlowerImageClassifier%2Fblob%2Fmaster%2FFlowerspeciesClassifier.ipynb
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
